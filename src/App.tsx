@@ -1,10 +1,12 @@
-import './App.css'
 
-function App() {
+export default function App() {
   return (
     <>
-   </>
+      <section>
+        <div>
+          <h1>Hi, I'm Mason</h1>
+        </div>
+      </section>
+    </>
   )
 }
-
-export default App
